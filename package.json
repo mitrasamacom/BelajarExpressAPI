@@ -1,0 +1,8 @@
+{
+  "name": "Belajar-Express-API",
+  "dependencies": {
+    "express": "4.12.3",
+    "mongoose": "5.4.1"
+  },
+  "main": "app.js"
+}
